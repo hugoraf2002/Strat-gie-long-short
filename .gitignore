@@ -1,0 +1,15 @@
+# Dossier de l'environnement virtuel
+venv/
+*.pyc
+
+# Fichiers de cache ou de logs
+*.log
+.cache/
+
+# Fichiers de configuration système spécifiques
+.DS_Store  # Pour les utilisateurs de macOS
+Thumbs.db  # Pour les utilisateurs de Windows
+
+# Dossiers de l'IDE ou de l'éditeur
+.idea/     # Pour les utilisateurs de JetBrains IDEs
+.vscode/   # Pour les utilisateurs de Visual Studio Code
