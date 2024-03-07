@@ -1,4 +1,3 @@
-# src/selection_actions.py
 import pandas as pd
 from .calcul_scores import calculer_score_momentum, calculer_score_valeur, calculer_score_global
 

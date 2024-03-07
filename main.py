@@ -1,4 +1,3 @@
-# main.py
 from src.selection_actions import selectionner_actions
 from src.evaluation_strategie import evaluer_strategie
 import pandas as pd
